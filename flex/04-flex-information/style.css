@@ -10,7 +10,21 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin-bottom : 32px;
 }
+
+.flowers {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 52px;
+}
+.petal {
+  max-width: 200px;
+}
+
 
 /* do not edit this footer */
 .footer {
